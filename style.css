@@ -73,7 +73,7 @@ main {
 }
 
 #landing-text {
- background: url(/home/appu/Documents/Spark_photography/Images/First);
+ background: url(First.jpg);
  background-size: 300px;
     display: flex;
     flex: 0 1 100vw;
@@ -89,7 +89,7 @@ main {
 }
 
 #landing-image {
-    background: url(/home/appu/Documents/Spark_photography/Images/First);                            <!--https://source.unsplash.com/De8wMYoSSBc-->
+    background: url(First.jpg);                            <!--https://source.unsplash.com/De8wMYoSSBc-->
     background-position: cover;
     background-size: 400px;
     background-repeat: no-repeat;
